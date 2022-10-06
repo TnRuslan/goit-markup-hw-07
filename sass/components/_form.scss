@@ -35,9 +35,6 @@
     fill: var(--accent-color);
 }
 
-
-
-
 .input-label {
     font-size: 12px;
     line-height: 1.16;
@@ -133,7 +130,6 @@
 .form-checkbox:checked+.check-label .icon-check-box {
     background-color: var(--accent-color);
 }
-
 
 .modal .form-btn.button {
     margin-right: auto;
